@@ -6,19 +6,21 @@ layout: homepage
 
 I am a Ph.D. student at ...
 
-## Research Interests
+## Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My expertise is application-inspired Machine Learning with the goal of socially aware AI technologies that benefit people by combining information from multiple modalities (through computer vision, speech processing, and natural language processing).
 
-## News
+Examples of socially aware technologies that I helped create include:
+1. developing behavior markers for symptoms of mental health;
+2. automated estimation of social skills to improve public speaking; and
+3. automated detection of sentiment, emotions, and mood.
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+-> For these AI applications, I focused on making them more transparent so that users can understand them better.
 
-## Publications
+As a final-year CMU Ph.D. student, I'm excited to transition to an industry position with research-oriented projects. Please don't hesitate to reach out!
+
+
+## Selected Publications
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -43,8 +45,3 @@ I am a Ph.D. student at ...
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
