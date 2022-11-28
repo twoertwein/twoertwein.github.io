@@ -22,9 +22,6 @@ As a final-year CMU Ph.D. student, I'm excited to transition to an industry posi
 
 ## Selected Publications
 
-# acii: anxiety
-# ubicomp
-
 - **Beyond Additive Fusion: Learning Non-Additive Multimodal Interactions**
   <br>
   **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, Louis-Philippe Morency
