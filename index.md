@@ -22,26 +22,78 @@ As a final-year CMU Ph.D. student, I'm excited to transition to an industry posi
 
 ## Selected Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+# acii: anxiety
+# ubicomp
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Beyond Additive Fusion: Learning Non-Additive Multimodal Interactions**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, Louis-Philippe Morency
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  Findings of the Association for Computational Linguistics: {EMNLP} 2022. **F-EMNLP 2022**
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[Paper](https://github.com/twoertwein/MultimodalResidualOptimization/raw/main/paper.pdf)] [[Code](https://github.com/twoertwein/MultimodalResidualOptimization/)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Human-Guided Modality Informativeness for Affective States**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, Louis-Philippe Morency
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  ACM International Conference on Multimodal Interaction. **ICMI 2021**
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[Paper](https://dl.acm.org/doi/10.1145/3462244.3481004)] [[Code](https://github.com/twoertwein/HumanGuidedAttention/)]
+
+- **Simple and Effective Approaches for Uncertainty Prediction in Facial Action Unit Intensity Regression**
+  <br>
+  **Torsten Wörtwein** and Louis-Philippe Morency
+  <br>
+  IEEE International Conference on Automatic Face and Gesture Recognition. **FG 2020**
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/9320286)] [[Code](https://github.com/twoertwein/UncertaintyRegression)]
+
+- **Computational Analysis of Acoustic Descriptors in Psychotic Patients**
+  <br>
+  **Torsten Wörtwein**, Tadas Baltrusaitis, Eugene Laksana, Luciana Pennant, Elizabeth S. Liebson, Dost Öngür, Justin T. Baker, Louis-Philippe Morency
+  <br>
+  Conference of the International Speech Communication Association. **INTERSPEECH 2017**
+  <br>
+  [[Paper](https://www.isca-speech.org/archive_v0/Interspeech_2017/abstracts/0466.html)]
+
+- **What Really Matters - An Information Gain Analysis of Questions and Reactions in Automated PTSD Screenings**
+  <br>
+  **Torsten Wörtwein** and Stefan Scherer
+  <br>
+  IEEE Conference on Affective Computing and Intelligent Interaction. **ACII 2017**
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/document/8273573)]
+
+- **Mobile Interactive Image Sonification for the Blind**
+  <br>
+  **Torsten Wörtwein**, Boris Schauerte, Karin Müller, Rainer Stiefelhagen
+  <br>
+  International Conference on Computers Helping People with Special Needs. **ICCHP 2017**
+  <br>
+  [[Paper](https://www.springerprofessional.de/en/mobile-interactive-image-sonification-for-the-blind/10341192)]
+
+- **Multimodal Public Speaking Performance Assessment**
+  <br>
+  **Torsten Wörtwein**, Mathieu Chollet, Boris Schauerte, Louis-Philippe Morency, Rainer Stiefelhagen, Stefan Scherer
+  <br>
+  ACM International Conference on Multimodal Interaction. **ICMI 2015**
+  <br>
+  [[Paper](https://dl.acm.org/doi/abs/10.1145/2818346.2820762)]
+
+- **Automatic Assessment and Analysis of Public Speaking Anxiety: A Virtual Audience Case Study**
+  <br>
+  **Torsten Wörtwein**, Louis-Philippe Morency, Stefan Scherer
+  <br>
+  IEEE Conference on Affective Computing and Intelligent Interaction. **ACII 2015**
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/7344570/)]
+
+- **Exploring feedback strategies to improve public speaking: an interactive virtual audience framework**
+  <br>
+  Mathieu Chollet\*, **Torsten Wörtwein**\*, Louis-Philippe Morency, Ari Shapiro, Stefan Scherer
+  <br>
+  ACM International Joint Conference on Pervasive and Ubiquitous Computing. **UbiComp 2015**
+  <br>
+  [[Paper](https://dl.acm.org/doi/abs/10.1145/2750858.2806060)]
+
