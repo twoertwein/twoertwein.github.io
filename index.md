@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a final-year Ph.D. student in [Language and Information Technology](https://www.lti.cs.cmu.edu/) at [CMU](https://www.cmu.edu/) working in [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)'s [MultiComp Lab](http://multicomp.cs.cmu.edu/).
 
 ## Interests
 
