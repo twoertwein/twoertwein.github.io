@@ -23,6 +23,7 @@ Examples of socially aware technologies that I helped create include:
 ## Selected Publications
 
 - ### Beyond Additive Fusion: Learning Non-Additive Multimodal Interactions
+  |-|-|
   | ![emnlp](./assets/img/femnlp22.png) | **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, Louis-Philippe Morency <br> Findings of the Association for Computational Linguistics: EMNLP 2022. **F-EMNLP 2022** |
   <br>
   [[Paper](https://github.com/twoertwein/MultimodalResidualOptimization/raw/main/paper.pdf)] [[Code](https://github.com/twoertwein/MultimodalResidualOptimization/)]
