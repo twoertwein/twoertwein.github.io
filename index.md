@@ -23,13 +23,14 @@ Examples of socially aware technologies that I helped create include:
 ## Selected Publications
 
 - ### Beyond Additive Fusion: Learning Non-Additive Multimodal Interactions
-  |-|-|
-  | ![emnlp](./assets/img/femnlp22.png) | **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, Louis-Philippe Morency <br> Findings of the Association for Computational Linguistics: EMNLP 2022. **F-EMNLP 2022** |
+  **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
+  <br>
+  Findings of the Association for Computational Linguistics: EMNLP 2022. **F-EMNLP 2022**
   <br>
   [[Paper](https://github.com/twoertwein/MultimodalResidualOptimization/raw/main/paper.pdf)] [[Code](https://github.com/twoertwein/MultimodalResidualOptimization/)]
 
 - ### Human-Guided Modality Informativeness for Affective States
-  **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, Louis-Philippe Morency
+  **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
   <br>
   ACM International Conference on Multimodal Interaction. **ICMI 2021**
   <br>
@@ -43,7 +44,7 @@ Examples of socially aware technologies that I helped create include:
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9320286)] [[Code](https://github.com/twoertwein/UncertaintyRegression)]
 
 - ### Computational Analysis of Acoustic Descriptors in Psychotic Patients
-  **Torsten Wörtwein**, Tadas Baltrusaitis, Eugene Laksana, Luciana Pennant, Elizabeth S. Liebson, Dost Öngür, Justin T. Baker, Louis-Philippe Morency
+  **Torsten Wörtwein**, Tadas Baltrusaitis, Eugene Laksana, Luciana Pennant, Elizabeth S. Liebson, Dost Öngür, Justin T. Baker, and Louis-Philippe Morency
   <br>
   Conference of the International Speech Communication Association. **INTERSPEECH 2017**
   <br>
@@ -57,28 +58,28 @@ Examples of socially aware technologies that I helped create include:
   [[Paper](https://ieeexplore.ieee.org/document/8273573)]
 
 - ### Mobile Interactive Image Sonification for the Blind
-  **Torsten Wörtwein**, Boris Schauerte, Karin Müller, Rainer Stiefelhagen
+  **Torsten Wörtwein**, Boris Schauerte, Karin Müller, and Rainer Stiefelhagen
   <br>
   International Conference on Computers Helping People with Special Needs. **ICCHP 2017**
   <br>
   [[Paper](https://www.springerprofessional.de/en/mobile-interactive-image-sonification-for-the-blind/10341192)]
 
 - ### Multimodal Public Speaking Performance Assessment
-  **Torsten Wörtwein**, Mathieu Chollet, Boris Schauerte, Louis-Philippe Morency, Rainer Stiefelhagen, Stefan Scherer
+  **Torsten Wörtwein**, Mathieu Chollet, Boris Schauerte, Louis-Philippe Morency, Rainer Stiefelhagen, and Stefan Scherer
   <br>
   ACM International Conference on Multimodal Interaction. **ICMI 2015**
   <br>
   [[Paper](https://dl.acm.org/doi/abs/10.1145/2818346.2820762)]
 
 - ### Automatic Assessment and Analysis of Public Speaking Anxiety: A Virtual Audience Case Study
-  **Torsten Wörtwein**, Louis-Philippe Morency, Stefan Scherer
+  **Torsten Wörtwein**, Louis-Philippe Morency, and Stefan Scherer
   <br>
   IEEE Conference on Affective Computing and Intelligent Interaction. **ACII 2015**
   <br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/7344570/)]
 
 - ### Exploring Feedback Strategies to Improve Public Speaking: An Interactive Virtual Audience Framework
-  Mathieu Chollet\*, **Torsten Wörtwein**\*, Louis-Philippe Morency, Ari Shapiro, Stefan Scherer
+  Mathieu Chollet\*, **Torsten Wörtwein**\*, Louis-Philippe Morency, Ari Shapiro, and Stefan Scherer
   <br>
   ACM International Joint Conference on Pervasive and Ubiquitous Computing. **UbiComp 2015**
   <br>
