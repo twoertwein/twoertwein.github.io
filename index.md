@@ -23,6 +23,7 @@ Examples of socially aware technologies that I helped create include:
 ## Selected Publications
 
 - ### Beyond Additive Fusion: Learning Non-Additive Multimodal Interactions
+  <img src="./assets/img/femnlp22.png" class="teaser"></img>
   **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, Louis-Philippe Morency
   <br>
   Findings of the Association for Computational Linguistics: EMNLP 2022. **F-EMNLP 2022**
@@ -78,7 +79,7 @@ Examples of socially aware technologies that I helped create include:
   <br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/7344570/)]
 
-- ### Exploring feedback strategies to improve public speaking: an interactive virtual audience framework
+- ### Exploring Feedback Strategies to Improve Public Speaking: An Interactive Virtual Audience Framework
   Mathieu Chollet\*, **Torsten Wörtwein**\*, Louis-Philippe Morency, Ari Shapiro, Stefan Scherer
   <br>
   ACM International Joint Conference on Pervasive and Ubiquitous Computing. **UbiComp 2015**
