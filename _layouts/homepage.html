@@ -14,12 +14,6 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
 
-    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" /></noscript>
-
-    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" referrerpolicy="no-referrer" /></noscript>
-
     <link rel="stylesheet" href="./assets/css/style.css">
   </head>
   <body>
@@ -48,17 +42,17 @@
 
           {% if site.linkedin %}
           <a href="{{ site.linkedin }}" target="_blank" aria-label="linkedin profile">
-            <i class="fab fa-linkedin-in"></i>
+            <img src="./assets/img/linkedin.webp" width=48 height=48 alt="linkedin">
           </a>
           {% endif %}
           {% if site.google_scholar %}
           <a href="{{ site.google_scholar}}" target="_blank" aria-label="google scholar profile">
-            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
+            <img src="./assets/img/gscholar.webp" width=48 height=48 alt="google scholar">
           </a>
           {% endif %}
           {% if site.github_link %}            
           <a href="{{ site.github_link }}" target="_blank" aria-label="github profile">
-            <i class="fab fa-github"></i>
+            <img src="./assets/img/github.webp" width=48 height=48 alt="github">
           </a>
           {% endif %}
         </div>
