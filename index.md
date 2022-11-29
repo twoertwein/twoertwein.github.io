@@ -6,6 +6,8 @@ layout: homepage
 
 I'm a final-year Ph.D. student in [Language and Information Technology](https://www.lti.cs.cmu.edu/) at [CMU](https://www.cmu.edu/) working in [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)'s [MultiComp Lab](http://multicomp.cs.cmu.edu/).
 
+**As a final-year CMU Ph.D. student, I'm excited to transition to an industry position with research-oriented projects. Please don't hesitate to reach out!**
+
 ## Interests
 
 My expertise is application-inspired Machine Learning with the goal of socially aware AI technologies that benefit people by combining information from multiple modalities (through computer vision, speech processing, and natural language processing).
@@ -16,8 +18,6 @@ Examples of socially aware technologies that I helped create include:
 3. automated detection of sentiment, emotions, and mood.
 
 -> For these AI applications, I focused on making them more transparent so that users can understand them better.
-
-As a final-year CMU Ph.D. student, I'm excited to transition to an industry position with research-oriented projects. Please don't hesitate to reach out!
 
 
 ## Selected Publications
