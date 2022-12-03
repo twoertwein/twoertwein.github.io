@@ -10,15 +10,12 @@ I'm a final-year Ph.D. student in [Language and Information Technology](https://
 
 ## Interests
 
-My expertise is application-inspired Machine Learning with the goal of socially aware AI technologies that benefit people by combining information from multiple modalities (through computer vision, speech processing, and natural language processing).
+My expertise is application-inspired Machine Learning with the goal of socially aware AI technologies that benefit people by combining information from multiple modalities (through computer vision, speech processing, and natural language processing). One of my main interests is making AI technologies more transparent so that users can understand them better.
 
-Examples of socially aware technologies that I helped create include:
-1. developing behavior markers for symptoms of mental health;
-2. automated estimation of social skills to improve public speaking; and
-3. automated detection of sentiment, emotions, and mood.
-
--> For these AI applications, I focused on making them more transparent so that users can understand them better.
-
+Examples of socially aware technologies that I worked on include:
+1) mental health: developing behavior markers for symptoms of mental health;
+2) public speaking: automated estimation of social skills to improve public speaking; and
+3) affective states: automated detection of sentiment, emotions, and mood.
 
 ## Selected Publications
 
