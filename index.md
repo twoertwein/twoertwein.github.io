@@ -24,7 +24,7 @@ Examples of socially aware technologies that I worked on include:
   <br>
   Findings of the Association for Computational Linguistics: EMNLP 2022. **F-EMNLP 2022**
   <br>
-  [[Paper](https://github.com/twoertwein/MultimodalResidualOptimization/raw/main/paper.pdf)] [[Code](https://github.com/twoertwein/MultimodalResidualOptimization/)]
+  [[Paper](https://aclanthology.org/2022.findings-emnlp.344/)] [[Code](https://github.com/twoertwein/MultimodalResidualOptimization/)]
 
 - ### Human-Guided Modality Informativeness for Affective States
   **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
