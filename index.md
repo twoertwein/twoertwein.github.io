@@ -88,3 +88,10 @@ Examples of socially aware technologies that I worked on include:
   ACM International Joint Conference on Pervasive and Ubiquitous Computing. **UbiComp 2015**
   <br>
   [[Paper](https://dl.acm.org/doi/abs/10.1145/2750858.2806060)]
+
+- ### Color Decorrelation Helps Visual Saliency Detection
+  Boris Schauerte, **Torsten Wörtwein**, and Rainer Stiefelhagen
+  <br>
+  IEEE International Conference on Image Processing. **ICIP 2015**
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/document/7351144)]
