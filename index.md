@@ -22,9 +22,9 @@ Examples of socially aware technologies that I worked on include:
 - ### Neural Mixed Effects for Nonlinear Personalized Predictions
   **Torsten Wörtwein**, Nicholas Allen, Lisa B. Sheeber, Randy P. Auerbach, Jeffrey F. Cohn, and Louis-Philippe Morency
   <br>
-  **Submitted to** ACM International Conference on Multimodal Interaction. **ICMI 2023**
+  **Accepted at** ACM International Conference on Multimodal Interaction. **ICMI 2023**
   <br>
-  [[Paper](https://github.com/twoertwein/NeuralMixedEffects/blob/main/preprint.pdf)] [[Code](https://github.com/twoertwein/NeuralMixedEffects/)]
+  [[Paper](https://arxiv.org/abs/2306.08149)] [[Code](https://github.com/twoertwein/NeuralMixedEffects/)]
 
 - ### Beyond Additive Fusion: Learning Non-Additive Multimodal Interactions
   **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
