@@ -20,21 +20,21 @@ Examples of socially aware technologies that I worked on include:
 ## Selected Publications
 
 - ### Neural Mixed Effects for Nonlinear Personalized Predictions
-  **Torsten Wörtwein**, Nicholas Allen, Lisa B. Sheeber, Randy P. Auerbach, Jeffrey F. Cohn, and Louis-Philippe Morency
+  **Torsten Wörtwein**, Nicholas B. Allen, Lisa B. Sheeber, Randy P. Auerbach, Jeffrey F. Cohn, and Louis-Philippe Morency
   <br>
-  **Accepted at** ACM International Conference on Multimodal Interaction. **ICMI 2023**
+  ACM International Conference on Multimodal Interaction. **ICMI 2023**
   <br>
-  [[Paper](https://arxiv.org/abs/2306.08149)] [[Code](https://github.com/twoertwein/NeuralMixedEffects/)]
+  [[Paper](https://doi.org/10.1145/3577190.3614115)] [[Code](https://github.com/twoertwein/NeuralMixedEffects/)]
 
 - ### Beyond Additive Fusion: Learning Non-Additive Multimodal Interactions
-  **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
+  **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas B. Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
   <br>
   Findings of the Association for Computational Linguistics: EMNLP 2022. **F-EMNLP 2022**
   <br>
   [[Paper](https://aclanthology.org/2022.findings-emnlp.344/)] [[Code](https://github.com/twoertwein/MultimodalResidualOptimization/)]
 
 - ### Human-Guided Modality Informativeness for Affective States
-  **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
+  **Torsten Wörtwein**, Lisa B. Sheeber, Nicholas B. Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
   <br>
   ACM International Conference on Multimodal Interaction. **ICMI 2021**
   <br>
