@@ -52,7 +52,7 @@ Examples of socially aware technologies that I worked on include:
   <br>
   Conference of the International Speech Communication Association. **INTERSPEECH 2017**
   <br>
-  [[Paper](https://www.isca-speech.org/archive_v0/Interspeech_2017/abstracts/0466.html)]
+  [[Paper](https://doi.org/10.21437/Interspeech.2017-466)]
 
 - ### What Really Matters - An Information Gain Analysis of Questions and Reactions in Automated PTSD Screenings
   **Torsten Wörtwein** and Stefan Scherer
