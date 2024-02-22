@@ -19,6 +19,13 @@ Examples of socially aware technologies that I worked on include:
 
 ## Selected Publications
 
+- ### Towards Improving Transparency in Multimodal Affect Perception
+  **Torsten Wörtwein**
+  <br>
+  Ph.D. Thesis; Committee: Louis-Philippe Morency, Jeffrey F. Cohn, Florian Metze, and Emily Mower Provost
+  <br>
+  [[Thesis](https://kilthub.cmu.edu/articles/thesis/Towards_Improving_Transparency_in_Multimodal_Affect_Perception/25062008)]
+
 - ### Neural Mixed Effects for Nonlinear Personalized Predictions
   **Torsten Wörtwein**, Nicholas B. Allen, Lisa B. Sheeber, Randy P. Auerbach, Jeffrey F. Cohn, and Louis-Philippe Morency
   <br>
