@@ -22,7 +22,7 @@ Examples of socially aware technologies that I worked on include:
 - ### Towards Improving Transparency in Multimodal Affect Perception
   **Torsten Wörtwein**
   <br>
-  Dissertation; Committee: [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/), [Jeffrey F. Cohn](https://www.jeffcohn.net/), [Florian Metze](https://www.linkedin.com/in/florianmetze/), and [Emily Mower Provost](https://emp.engin.umich.edu/)
+  Committee: [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/), [Jeffrey F. Cohn](https://www.jeffcohn.net/), [Florian Metze](https://www.linkedin.com/in/florianmetze/), and [Emily Mower Provost](https://emp.engin.umich.edu/)
   <br>
   [[Dissertation](https://kilthub.cmu.edu/articles/thesis/Towards_Improving_Transparency_in_Multimodal_Affect_Perception/25062008)]
 
