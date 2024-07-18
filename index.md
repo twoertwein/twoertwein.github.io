@@ -19,6 +19,13 @@ Examples of socially aware technologies that I worked on include:
 
 ## Selected Publications
 
+- ### SMURF: Statistical Modality Uniqueness and Redundancy Factorization
+  **Torsten Wörtwein**, Nicholas B. Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
+  <br>
+  to appear in ACM International Conference on Multimodal Interaction. **ICMI 2024**
+  <br>
+  [[Code](https://github.com/twoertwein/smurf/)]
+
 - ### Towards Improving Transparency in Multimodal Affect Perception
   **Torsten Wörtwein**
   <br>
