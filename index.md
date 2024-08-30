@@ -17,7 +17,7 @@ Examples of socially aware technologies that I worked on include:
 2. public speaking: automated estimation of social skills to improve public speaking; and
 3. affective states: automated detection of sentiment, emotions, and mood.
 
-## Selected Publications
+## Selected Peer-Reviewed Publications
 
 - ### SMURF: Statistical Modality Uniqueness and Redundancy Factorization
   **Torsten Wörtwein**, Nicholas B. Allen, Jeffrey F. Cohn, and Louis-Philippe Morency
