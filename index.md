@@ -24,7 +24,7 @@ Examples of socially aware technologies that I worked on include:
   <br>
   ACM International Conference on Multimodal Interaction. **ICMI 2024**
   <br>
-  [[Paper](https://www.jeffcohn.net/wp-content/uploads/2024/08/ICMI_24-3.pdf)] [[Code](https://github.com/twoertwein/smurf/)]
+  [[Paper](https://doi.org/10.1145/3678957.3685716)] [[Code](https://github.com/twoertwein/smurf/)]
 
 - ### Towards Improving Transparency in Multimodal Affect Perception
   **Torsten Wörtwein**
