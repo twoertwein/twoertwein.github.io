@@ -5,10 +5,9 @@ layout: homepage
 ## About Me
 
 I'm currently working at [ETS](https://www.ets.org/) on main two projects:
-1. creating and deploying models to infer [workplace skills of people and skill requirements of jobs](https://www.ets.org/futurenav.html); and
+1. creating and deploying models to infer [workplace skills of users and requirements of jobs](https://www.ets.org/futurenav.html); and
 2. developing a smartwatch app that provides real-time speech feedback to the wearer.
-
-During my Ph.D. in [Language and Information Technology](https://www.lti.cs.cmu.edu/) at [CMU](https://www.cmu.edu/) I worked with [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) on multimodal machine learning applied to human behaviors.
+During my Ph.D. in [Language and Information Technology](https://www.lti.cs.cmu.edu/) at [CMU](https://www.cmu.edu/), I worked with [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) on multimodal machine learning applied to human behaviors.
 
 ## Interests
 
