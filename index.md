@@ -4,13 +4,15 @@ layout: homepage
 
 ## About Me
 
-I'm a final-year Ph.D. student in [Language and Information Technology](https://www.lti.cs.cmu.edu/) at [CMU](https://www.cmu.edu/) working in [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)'s [MultiComp Lab](http://multicomp.cs.cmu.edu/).
+I'm currently working at [ETS](https://www.ets.org/) on main two projects:
+1. creating and deploying models to infer [workplace skills of people and skill requirements of jobs](https://www.ets.org/futurenav.html); and
+2. developing a smartwatch app that provides real-time speech feedback to the wearer.
 
-**As a final-year CMU Ph.D. student, I'm excited to transition to an industry position with research-oriented projects. Please don't hesitate to reach out!**
+During my Ph.D. in [Language and Information Technology](https://www.lti.cs.cmu.edu/) at [CMU](https://www.cmu.edu/) I worked with [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) on multimodal machine learning applied to human behaviors.
 
 ## Interests
 
-My expertise is application-inspired Machine Learning with the goal of socially aware AI technologies that benefit people by combining information from multiple modalities (through computer vision, speech processing, and natural language processing). One of my main interests is making AI technologies more transparent so that users can understand them better.
+My expertise is application-inspired machine learning with the goal of socially aware AI technologies that benefit people by combining information from multiple modalities (through computer vision, speech processing, and natural language processing). One of my main interests is making AI technologies more transparent so that users can understand them better.
 
 Examples of socially aware technologies that I worked on include:
 1. mental health: developing behavior markers for symptoms of mental health;
